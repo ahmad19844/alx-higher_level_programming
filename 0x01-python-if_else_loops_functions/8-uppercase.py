@@ -1,4 +1,5 @@
 #!/usr/bin/python3
+#include "list.h"
 def uppercase(str):
     new_str = ""
     for i in range(len(str)):
