@@ -13,4 +13,3 @@ def print_matrix_integer(matrix=[[]]):
                 i += 1
 
             print()
-g
