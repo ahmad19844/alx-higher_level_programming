@@ -1,0 +1,9 @@
+# VSCode Workspace
+.vscode
+*.code-workspace
+
+# Executables files
+*.run
+
+# Python Cache
+__pycache__
